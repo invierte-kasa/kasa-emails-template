@@ -4,8 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'kasa-green': '#10b981',
+        'kasa-green': '#00CC65',
         'kasa-green-dark': '#059669',
+        'kasa-background': '#101A28',
       }
     },
   },
